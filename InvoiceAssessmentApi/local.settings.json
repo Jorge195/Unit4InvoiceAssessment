@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ConnectionString": "mongodb://jorgeinvoicemongodb:Xe8P0nTuoQMPpjsBDwC8tJPy1KCdKBP46NtGDyRagEb6tluq4jfyuBK6JC0Nk85MfgSEGjZ1MckEwcxH8L6XaQ==@jorgeinvoicemongodb.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@jorgeinvoicemongodb@",
+    "DatabaseName": "InvoicesDB",
+    "CollectionName": "invoiceCollection",
+    "FreeCurrencyAPIServiceUrl": "https://freecurrencyapi.net/api/v2/latest?apikey=API Wma7eMh3t7NNHLy0gh5hUEobjKtZJA6wiXpgx5Yg&base_currency="
+  }
+}
